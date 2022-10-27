@@ -1,4 +1,4 @@
-baseURL = 'http://asylium.github.io/'
+baseURL = 'https://elwan-51.github.io/asylium.github.io/'
 languageCode = 'en-us'
 title = 'Asylium'
 theme = "ananke"
